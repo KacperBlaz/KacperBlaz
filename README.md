@@ -1,6 +1,6 @@
 ## Hi, happy to see you on my Github Profile ! 👋
 
-I'm Kacper DevOps & SRE Engineer from Poland 🇵🇱 I'm passionate about DevOps & SRE engineering, cloud computing, and software engineering.
+I'm Kacper, DevOps & SRE Engineer from Poland 🇵🇱 I'm passionate about DevOps & SRE engineering, cloud computing, and software engineering.
 
 I love solving complex problems, building scalable, reliable infrastructures and many more !
 
