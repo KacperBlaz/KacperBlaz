@@ -10,5 +10,11 @@ In free time , i like to learn new technologies and improve my skills
   
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,linux,terraform,ansible,python,bash,jenkins,gitlab,grafana,prometheus,mysql)](https://skillicons.dev)
 
+## 📝 Certified
+
+AWS Certified Solutions Architect - Associate
+
+CKA: Certified Kubernetes Administrator
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacperBlaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
