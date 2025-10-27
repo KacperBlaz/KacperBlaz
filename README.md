@@ -18,6 +18,6 @@ CKA: Certified Kubernetes Administrator
 
 ## Blog
 
-[![Website](https://img.icons8.com/ios-filled/50/000000/internet.png)](https://blog.kapi-tech.com/)
+[![Website](https://img.icons8.com/ios-filled/50/000000/internet.png)](https://blog.keepi.it.com/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacperBlaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
